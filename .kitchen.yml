@@ -1,0 +1,14 @@
+---
+driver:
+  name: docker
+  privileged: true
+
+provisioner:
+  name: ansible_playbook
+  hosts: test-kitchen
+
+platforms:
+  - name: debian-8
+
+suites:
+  - name: default
