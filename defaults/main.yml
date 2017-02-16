@@ -1,0 +1,6 @@
+---
+nginx_private_ipaddr_whitelist_present: []
+nginx_private_ipaddr_whitelist_absent: []
+
+nginx_private_htpasswd_present: []
+nginx_private_htpasswd_absent: []
