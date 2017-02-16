@@ -1,5 +1,7 @@
 # nginx
 
+[![Build Status](https://travis-ci.org/gperiard/evolix-nginx.svg?branch=master)](https://travis-ci.org/gperiard/evolix-nginx)
+
 Install Nginx.
 
 ## Tasks
